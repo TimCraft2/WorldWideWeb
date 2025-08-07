@@ -1,1 +1,6 @@
+header{
+  border-color: #C7C3BF;
+  background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);
+  background-image: linear-gradient(to bottom, #FFFFFF 0%, #E9E9E9 100%);
+}
 
