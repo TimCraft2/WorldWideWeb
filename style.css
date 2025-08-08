@@ -5,6 +5,7 @@ header{
   border-image: 3px solid linear-gradient(top, #d658b9 0%, #ff8800 100%);
   background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);
   background-image: linear-gradient(to bottom, #FFFFFF 0%, #E9E9E9 100%);
+  padding:5px 4px;
 }
 body{
   background-image: url(img/moscow.jpg);
