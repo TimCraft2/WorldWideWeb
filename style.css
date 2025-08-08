@@ -6,4 +6,7 @@ header{
   background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);
   background-image: linear-gradient(to bottom, #FFFFFF 0%, #E9E9E9 100%);
 }
+body{
+  background-image: url(img/moscow.jpg);
+}
 
