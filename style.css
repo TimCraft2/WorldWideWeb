@@ -1,4 +1,5 @@
 header{
+  border: 3px solid;
   border-color: -webkit-linear-gradient(top, #d658b9 0%, #ff8800 100%);
   background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);
   background-image: linear-gradient(to bottom, #FFFFFF 0%, #E9E9E9 100%);
