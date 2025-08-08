@@ -1,6 +1,6 @@
 header{
   border-radius: 4px;
-  border: 3px solid -webkit-linear-gradient(top, #d658b9 0%, #ff8800 100%;
+  border: 3px solid;
   border-image: -webkit-linear-gradient(top, #d658b9 0%, #ff8800 100%);
   border-image: 3px solid linear-gradient(top, #d658b9 0%, #ff8800 100%);
   background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);
