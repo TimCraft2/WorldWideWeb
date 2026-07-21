@@ -22,7 +22,6 @@ background-image: url(Img/Bluebg.png);
 }
 #mainDiv {
   display: grid;
-    grid-template-columns: 2fr 2fr ;
-    padding: 5px;
+    grid-template-columns: 1fr 2fr ;
     align-items: center;
 }
