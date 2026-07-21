@@ -1,1 +1,10 @@
-
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(img/wp15460271-y2k-futurism-wallpapers.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: entrar 0.6s ease;
+}
