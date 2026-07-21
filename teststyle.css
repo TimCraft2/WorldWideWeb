@@ -12,6 +12,7 @@ body {
   font-family: "Roboto Mono", system-ui;
   font-optical-sizing: auto;
   font-style: normal;
+  background-color: white;
 }
 h1 {
 background-image: url(Img/Bluebg.png);
